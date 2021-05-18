@@ -1,2 +1,3 @@
 # nioz-tutorials.github.io
- Example website
+
+Example website for the **GitHub tutorials**.
